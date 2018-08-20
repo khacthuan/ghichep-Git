@@ -11,4 +11,3 @@
 ### [5. Thao tác nâng cao trên Remote Repo và Origin](docs/git-remote-repo-origin.md)
 ### [6. Git branch và làm việc với nhánh](docs/git-branch.md)
 ### [7. Rebase - Merge](docs/git-merge-rebase.md)
-### [7. Kết luận](docs/ketluan.md)
